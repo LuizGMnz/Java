@@ -1,0 +1,15 @@
+Projeto Retângulo
+- Um pequeno programa em Java para calcular propriedades de um retângulo (Área e Perímetro).
+
+Como funciona?
+- O programa pede ao usuário que insira a base e a altura via terminal e exibe os cálculos na tela.
+
+Conceitos Praticados
+- Classes e Objetos
+- Encapsulamento (private, getters e setters)
+- Entrada de dados com Scanner
+
+Como rodar?
+Compile os arquivos: javac *.java
+
+Rode a aplicação: java Aplic
